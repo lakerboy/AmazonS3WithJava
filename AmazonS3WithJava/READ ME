@@ -1,0 +1,8 @@
+example from: https://www.youtube.com/watch?v=Cnf0wXowWDM
+
+To run just execute EntryPoint.java which will
+	- connect to AWS S3 account
+	- will create bucket with folder structure specified in constants 
+	- will copy file from local directory
+	- will then delete bucket with folder and image
+	
